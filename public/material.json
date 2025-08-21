@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Configuration Studio AI",
+    "connexion": "Fibre 1 Gb/s",
+    "ecran": "2x 27\" 4K",
+    "gpu": "4 x Radeon pro W7900",
+    "gpu_memory": "192 Go",
+    "cpu": "AMD Ryzen Threadripper PRO 7995WX",
+    "ram": "Renegade Pro 256 Go 5600Mhz",
+    "bureau": "Bureau ergonomique avec chaise réglable",
+    "extras": ["Imprimante", "Station USB-C", "Lampe de bureau"]
+  },
+  {
+    "name": "Configuration Dev Nomade",
+    "connexion": "4G + Ethernet",
+    "ecran": "Écran 16\" portable",
+    "gpu": "Radeon RX 7800 XT",
+    "gpu_memory": "16 Go",
+    "cpu": "AMD Ryzen 7 7840U",
+    "ram": "32 Go LPDDR5",
+    "bureau": "Setup pliable + chaise de voyage",
+    "extras": ["Batterie externe", "Casque audio", "Webcam HD"]
+  },
+  {
+    "name": "Configuration IA Ultra NVIDIA",
+    "connexion": "Fibre 10 Gb/s + Backup Starlink",
+    "ecran": "3x 32\" 6K HDR",
+    "gpu": "2 x NVIDIA RTX 5090",
+    "gpu_memory": "48 Go x2 (96 Go)",
+    "cpu": "Intel Xeon W9-3495X",
+    "ram": "512 Go DDR5 ECC",
+    "bureau": "Bureau studio pro avec chaise Herman Miller",
+    "extras": ["RAID NAS 40 To", "Station de recharge Qi", "Caméra PTZ 4K", "Éclairage LED réglable"]
+  }
+]

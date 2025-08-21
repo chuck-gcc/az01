@@ -1,0 +1,109 @@
+{
+  "annonces": [
+    {
+      "id": 1,
+      "ville": "Annecy",
+      "departement": "74",
+      "coords": [6.11667, 45.9],
+      "title": "Studio au bord du lac",
+      "description": "Charmant studio avec vue sur le lac d'Annecy, idéal pour un couple.",
+      "imageUrls": [ "/PL.png", "/PL.png","/PL.png"],
+      "location": "Annecy, proche vieille ville",
+      "size": "28m²",
+      "petsAllowed": true,
+      "price": "80 €/nuit",
+      "actif":false
+    },
+    {
+      "id": 2,
+      "ville": "Annecy",
+      "departement": "74",
+      "coords": [6.11667, 45.9],
+      "title": "Appartement moderne centre-ville",
+      "description": "Appartement lumineux et rénové, proche des commodités.",
+      "imageUrls": [ "/PL.png", "/PL.png","/PL.png"],
+      "location": "Annecy centre",
+      "size": "45m²",
+      "petsAllowed": false,
+      "price": "95 €/nuit",
+      "actif":false
+    },
+    {
+      "id": 3,
+      "ville": "Chamonix",
+      "departement": "74",
+      "coords": [6.865, 45.9237],
+      "title": "Chalet cosy avec cheminée",
+      "description": "Chalet en bois avec cheminée, parfait pour l’hiver.",
+      "imageUrls": [ "/PL.png", "/PL.png","/PL.png"],
+      "location": "Chamonix-Mont-Blanc",
+      "size": "70m²",
+      "petsAllowed": true,
+      "price": "150 €/nuit",
+      "actif":false
+    },
+    {
+      "id": 14,
+      "ville": "leman / Rhone alpes",
+      "departement": "74",
+      "coords": [6.4786, 46.3733],
+      "title": "Bouhadra cedric",
+      "description": "Appartement confortable situé à Thonon-les-Bains, offrant une vue partielle sur le lac Léman et un accès direct à pied aux thermes. Idéalement placé pour explorer la région transfrontalière, il se trouve à proximité immédiate de l'embarcadère reliant Lausanne en bateau, et à quelques minutes du CEVA pour rejoindre Genève rapidement. Un point de chute parfait entre montagnes françaises et dynamisme suisse.",
+      "imageUrls": [ "/back.jpg", "/PL.png", "/back.jpg", "/PL.png"],
+      "location": "Linux",
+      "size": "100km",
+      "petsAllowed": false,
+      "price": "c/c++, typescript, python",
+      "actif": true,
+      "materiel": {
+        "ecran": "Écran 27\" 4K * 2",
+        "gpu": "1 x Radeon pro W7900",
+        "gpu_memory": "192 Go",
+        "cpu": "AMD Ryzen Threadripper PRO 76965wx",
+        "cpu_cores": "24 cores",
+        "cpu_thread": "48 cores",
+        "ram": "renegade pro 256 Go 5600Mhz",
+        "extras": ["carte son", "shure sm7b", "rode wireless pro, panasonic gh7"]
+      }
+    },
+
+    {
+      "id": 5,
+      "ville": "Paris",
+      "departement": "74",
+      "coords": [  2.333333, 48.866667 ],
+      "title": "Appartement avec balcon",
+      "description": "Vue partielle sur le lac Léman, proche des thermes.",
+      "imageUrls": [ "/PL.png", "/PL.png","/PL.png"],
+      "location": "Evian centre",
+      "size": "35m²",
+      "petsAllowed": false,
+      "price": "75 €/nuit",
+      "actif":false
+    },
+    {
+      "id": 6,
+      "ville": "Bordeau",
+      "departement": "74",
+      "coords": [   -0.56667, 44.833328 ],
+      "title": "Appartement avec balcon",
+      "description": "Vue partielle sur le lac Léman, proche des thermes.",
+      "imageUrls": [ "/back.jpg", "/PL.png", "/back.jpg", "/PL.png"],
+      "location": "Evian centre",
+      "size": "35m²",
+      "petsAllowed": false,
+      "price": "75 €/nuit",
+      "materiel": {
+        "connexion": "Fibre 1 Gb/s",
+        "ecran": "Écran 27\" 4K * 2",
+        "gpu": "4 x Radeon pro W7900",
+        "gpu_memory": "192 Go",
+        "cpu": "AMD Ryzen Threadripper PRO 7",
+        "ram": "renegade pro 256 Go 5600Mhz",
+        "bureau": "Bureau ergonomique avec chaise réglable",
+        "extras": ["Imprimante", "Station de recharge USB-C", "Lampe de bureau"]
+      },
+      "actif":false
+    }
+  ]
+}
